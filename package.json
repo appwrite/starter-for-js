@@ -15,7 +15,7 @@
   "dependencies": {
     "@appwrite.io/pink-icons": "^1.0.0",
     "@tailwindcss/vite": "^4.0.14",
-    "appwrite": "^21.2.1",
+    "appwrite": "^29.1.0",
     "tailwindcss": "^4.0.14"
   }
 }
